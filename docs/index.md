@@ -45,3 +45,11 @@ Boda, Z. (2016): “Friendship based on race or race based on friendship? The co
 ## Other published work
 
 Ripley, R. M., Snijders, T.A.B., Boda, Z, Vörös, A, and Preciado, P. (2021): Manual for RSiena. Technical report, Oxford: University of Oxford, Department of Statistics
+
+# Press
+
+Testing a small and early intervention: The serendipity of friendships in students’ social networks https://socialsciences.nature.com/posts/59891-testing-a-small-and-early-intervention-the-serendipity-of-friendships-in-students-social-networks
+
+Giving chance a helping hand https://ethz.ch/en/news-and-events/eth-news/news/2020/06/giving-chance-a-helping-hand.html
+
+The value of friendships in academic success https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html
