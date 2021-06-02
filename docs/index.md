@@ -46,12 +46,12 @@ Boda, Z. (2016): “Friendship based on race or race based on friendship? The co
 
 Ripley, R. M., Snijders, T.A.B., Boda, Z, Vörös, A, and Preciado, P. (2021): Manual for RSiena. Technical report, Oxford: University of Oxford, Department of Statistics
 
-# Press
+# News
 
-Testing a small and early intervention: The serendipity of friendships in students’ social networks https://socialsciences.nature.com/posts/59891-testing-a-small-and-early-intervention-the-serendipity-of-friendships-in-students-social-networks
+Guest blog post for Nature [Testing a small and early intervention: The serendipity of friendships in students’ social networks](https://socialsciences.nature.com/posts/59891-testing-a-small-and-early-intervention-the-serendipity-of-friendships-in-students-social-networks)
 
-Giving chance a helping hand https://ethz.ch/en/news-and-events/eth-news/news/2020/06/giving-chance-a-helping-hand.html
+Featured in ETH news again [Giving chance a helping hand](https://ethz.ch/en/news-and-events/eth-news/news/2020/06/giving-chance-a-helping-hand.html)
 
-The value of friendships in academic success https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html
+New paprt in ETH news [The value of friendships in academic success](https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html)
 
-A barátok segítenek átmenni a szigorlaton (in Hungarian) https://index.hu/techtud/2019/01/18/a_baratok_segitenek_atmenni_a_szigorlaton/
+Appeared in Hungarian media [A barátok segítenek átmenni a szigorlaton (in Hungarian)](https://index.hu/techtud/2019/01/18/a_baratok_segitenek_atmenni_a_szigorlaton)
