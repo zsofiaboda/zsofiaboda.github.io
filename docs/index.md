@@ -52,6 +52,6 @@ Guest blog post for Nature [Testing a small and early intervention: The serendip
 
 Featured in ETH news again [Giving chance a helping hand](https://ethz.ch/en/news-and-events/eth-news/news/2020/06/giving-chance-a-helping-hand.html)
 
-New paprt in ETH news [The value of friendships in academic success](https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html)
+New paper appeared in Hungarian media [A barátok segítenek átmenni a szigorlaton (in Hungarian)](https://index.hu/techtud/2019/01/18/a_baratok_segitenek_atmenni_a_szigorlaton)
 
-Appeared in Hungarian media [A barátok segítenek átmenni a szigorlaton (in Hungarian)](https://index.hu/techtud/2019/01/18/a_baratok_segitenek_atmenni_a_szigorlaton)
+New paper in ETH news [The value of friendships in academic success](https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html)
