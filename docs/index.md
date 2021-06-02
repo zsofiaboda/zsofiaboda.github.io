@@ -1,8 +1,19 @@
 # About
 
-I am a Postdoctoral Researcher & Lecturer at the Social Networks Lab at ETH Zürich. I am Principal Investigator for the project "Who Succeeds and Who Fails? A Multilevel Social Network Analysis Approach to Immigrants’ Psychological and Sociocultural Adaption in Europe" (Computational Social Science Grant, awarded by the Volkswagen foundation). I received my PhD from the Department of Sociology and Nuffield College at the University of Oxford in 2016. My supervisors were Tom Snijders and Janne Jonsson.
+I am a Postdoctoral Researcher & Lecturer at the Social Networks Lab at ETH Zürich and an Honorary Research Associate at the Institute of Education at UCL. I am Principal Investigator for the project "Who Succeeds and Who Fails? A Multilevel Social Network Analysis Approach to Immigrants’ Psychological and Sociocultural Adaption in Europe" (Computational Social Science Grant, awarded by the Volkswagen foundation). I received my PhD from the Department of Sociology and Nuffield College at the University of Oxford in 2016. My supervisors were Tom Snijders and Janne Jonsson.
 
 My work aims at understanding social inequalities along immigrant background, race, ethnicity, socio-economic status, and gender. I study how social processes in the education system reinforce or counteract systematic differences between groups of students. Much of my work applies dynamic social network models.
+
+# News
+
+* Guest blog post for Nature: [Testing a small and early intervention: The serendipity of friendships in students’ social networks](https://socialsciences.nature.com/posts/59891-testing-a-small-and-early-intervention-the-serendipity-of-friendships-in-students-social-networks)
+
+* Featured in ETH news again: [Giving chance a helping hand](https://ethz.ch/en/news-and-events/eth-news/news/2020/06/giving-chance-a-helping-hand.html)
+
+* New paper appeared in Hungarian media: [A barátok segítenek átmenni a szigorlaton (in Hungarian)](https://index.hu/techtud/2019/01/18/a_baratok_segitenek_atmenni_a_szigorlaton)
+
+* New paper in ETH news: [The value of friendships in academic success](https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html)
+
 
 # Publications
 
@@ -45,13 +56,3 @@ Boda, Z. (2016): “Friendship based on race or race based on friendship? The co
 ## Other published work
 
 Ripley, R. M., Snijders, T.A.B., Boda, Z, Vörös, A, and Preciado, P. (2021): Manual for RSiena. Technical report, Oxford: University of Oxford, Department of Statistics
-
-# News
-
-Guest blog post for Nature [Testing a small and early intervention: The serendipity of friendships in students’ social networks](https://socialsciences.nature.com/posts/59891-testing-a-small-and-early-intervention-the-serendipity-of-friendships-in-students-social-networks)
-
-Featured in ETH news again [Giving chance a helping hand](https://ethz.ch/en/news-and-events/eth-news/news/2020/06/giving-chance-a-helping-hand.html)
-
-New paper appeared in Hungarian media [A barátok segítenek átmenni a szigorlaton (in Hungarian)](https://index.hu/techtud/2019/01/18/a_baratok_segitenek_atmenni_a_szigorlaton)
-
-New paper in ETH news [The value of friendships in academic success](https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html)
