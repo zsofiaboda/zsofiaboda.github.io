@@ -6,6 +6,8 @@
 
 # Publications
 
+## Journal articles
+
 Lorenz, G., Boda, Z., Salikutluk, Z. (2021): “Oppositional culture revisited. Friendship dynamics and the creation of social capital among Turkish minority adolescents in Germany” Journal of Ethnic and Migration Studies
 
 Vörös, A., Boda, Z., Elmer, T., Hoffman, M., Mepham, K., Raabe, I. J., Stadtfeld, C. (2021): “The Swiss StudentLife Study: Investigating the emergence of an undergraduate community through dynamic, multidimensional social network data” Social Networks 65, 71-84
@@ -35,3 +37,11 @@ Boda, Z. “Social influence on observed race” (2018): Sociological Science, 5
 Elmer, T., Boda, Z., and Stadtfeld, C. (2017): "The co-evolution of emotional well-being with weak and strong friendship ties" Network Science, 5 (3), 278-307 
 
 Boda, Z. and Néray, B. (2015): "Inter-ethnic friendships and negative ties in secondary school." Social Networks 43, 57-72.
+
+## Doctoral thesis
+
+Boda, Z. (2016): “Friendship based on race or race based on friendship? The co-evolution of friendships, negative ties and ethnic perceptions in Hungarian schools.” University of Oxford
+
+## Other published work
+
+Ripley, R. M., Snijders, T.A.B., Boda, Z, Vörös, A, and Preciado, P. (2021): Manual for RSiena. Technical report, Oxford: University of Oxford, Department of Statistics
