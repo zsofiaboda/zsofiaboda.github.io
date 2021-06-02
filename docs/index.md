@@ -43,7 +43,7 @@ Stadtfeld, C., Vörös, A., Elmer, T., Boda, Z., Raabe, I. (2019): “Integratio
 
 Vörös, A., Block, P., Boda, Z. (2019): “Limits to inferring status from friendship relations” Social Networks, 59, 77-79
 
-Boda, Z. “Social influence on observed race” (2018): Sociological Science, 5, 29-57 
+Boda, Z. (2018): “Social influence on observed race” Sociological Science, 5, 29-57 
 
 Elmer, T., Boda, Z., and Stadtfeld, C. (2017): "The co-evolution of emotional well-being with weak and strong friendship ties" Network Science, 5 (3), 278-307 
 
