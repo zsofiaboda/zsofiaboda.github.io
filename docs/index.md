@@ -1,10 +1,8 @@
 # About
 
-My work aims at understanding social inequalities along immigrant background, race, ethnicity, socio-economic status, and gender. 
+I am a Postdoctoral Researcher & Lecturer at the Social Networks Lab at ETH Zürich. I am principal investigator of the project "Who Succeeds and Who Fails? A Multilevel Social Network Analysis Approach to Immigrants’ Psychological and Sociocultural Adaption in Europe" (Computational Social Science Grant, awarded by the Volkswagen foundation). I received my PhD from the Department of Sociology and Nuffield College at the University of Oxford in 2016. My supervisors were Tom Snijders and Janne Jonsson.
 
-I study how social processes in the education system reinforce or counteract systematic differences between groups of students. 
-
-Much of my work applies dynamic social network models.
+My work aims at understanding social inequalities along immigrant background, race, ethnicity, socio-economic status, and gender. I study how social processes in the education system reinforce or counteract systematic differences between groups of students. Much of my work applies dynamic social network models.
 
 # Publications
 
