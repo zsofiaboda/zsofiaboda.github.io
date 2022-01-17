@@ -1,10 +1,10 @@
 # About
 
-I am a Senior Lecturer (Associate Professor) at the University of Essex, where I share my time between the Department of Sociology and the Institute for Social and Economic Research (ISER). At ISER, I am a member of the ESRC Research Centre on Micro-Social Change (MiSoC). I also hold a Humboldt Research Fellowship for Experienced Researchers at the Berlin Institute for Migration and Integration, awarded by the Alexander von Humboldt Foundation.
+I am a Senior Lecturer (Associate Professor) at the University of Essex, where I share my time between the [Department of Sociology](https://www.essex.ac.uk/departments/sociology) and the [Institute for Social and Economic Research (ISER)](https://www.iser.essex.ac.uk). At ISER, I am a member of the [ESRC Research Centre on Micro-Social Change (MiSoC)](https://www.iser.essex.ac.uk/misoc). I also hold a Humboldt Research Fellowship for Experienced Researchers at the [Berlin Institute for Integration and Migration Research](https://www.bim.hu-berlin.de/en/welcome), awarded by the Alexander von Humboldt Foundation.
 
-Previously, I worked as a postdoctoral Researcher at the Social Networks Lab at ETH Zürich between 2015 and 2021. From 2017, I was Principal Investigator of the project "Who Succeeds and Who Fails? A Multilevel Social Network Analysis Approach to Immigrants’ Psychological and Sociocultural Adaption in Europe" (Computational Social Science Grant, awarded by the Volkswagen foundation). Between 2015 and 2017, I served as a project for the Swiss StudentLife Study administered at ETH. I received my PhD from the Department of Sociology and Nuffield College at the University of Oxford in 2016. My supervisors were Tom Snijders and Janne Jonsson.
+Previously, I worked as a postdoctoral Researcher at the [Social Networks Lab](https://sn.ethz.ch) at ETH Zürich between 2015 and 2021. From 2017, I was Principal Investigator of the project "Who Succeeds and Who Fails? A Multilevel Social Network Analysis Approach to Immigrants’ Psychological and Sociocultural Adaption in Europe" (Computational Social Science Grant, awarded by the Volkswagen foundation). Between 2015 and 2017, I served as a project for the [Swiss StudentLife Study](https://sn.ethz.ch/research/studentlife.html) administered at ETH. I received my PhD from the [Department of Sociology](https://www.sociology.ox.ac.uk) and [Nuffield College](https://www.nuffield.ox.ac.uk) at the University of Oxford in 2016. My supervisors were Tom Snijders and Janne Jonsson.
 
-My work aims at understanding social inequalities along immigrant background, race, ethnicity, socio-economic status, and gender. I study how social processes in the education system reinforce or counteract systematic differences between groups of students. Much of my work applies dynamic social network models.
+My work aims at understanding social inequalities along immigrant background, race, ethnicity, socio-economic status, and gender. I study how social processes in the education system reinforce or counteract systematic differences between groups of students. Much of my work applies state-of-art dynamic social network models.
 
 # News
 
@@ -19,7 +19,17 @@ My work aims at understanding social inequalities along immigrant background, ra
 
 # Publications
 
+## Book chapters
+
+Boda, Z. (2021): “Where does ethnic segregation start? Interethnic differences in friendship, positive affection, and time spent together.” In: T. Altmann (ed.) Friendship in Cultural and Personality Psychology: International Perspectives, 395-407. Nova Science Publishers
+
 ## Journal articles
+
+Boda, Z., Lorenz, G., Jansen, M., Stanat, P., Edele, A. (2021): “Ethnic diversity fosters the social integration of refugee students.” [ResearchSquare](https://assets.researchsquare.com/files/rs-1063676/v1/32633850-5d51-42a3-bb25-78b33e88aab5.pdf?c=1638567351)
+
+Jansen, M., Boda, Z., Lorenz, G. (2021): “Social comparison effects on academic self-concepts: Which peers matter most?” [PsyArXiv](https://psyarxiv.com/52yhj/download?format=pdf)
+
+Lorenz, G., Salikutluk, Z., Boda, Z., Jansen, M., Hewstone, M. (2021): “The interplay between social and structural integration: Co-evolution of friendship and educational expectations among Turkish minority adolescents in Germany.” Sociological Science, 8, 371-396
 
 Lorenz, G., Boda, Z., Salikutluk, Z. (2021): “Oppositional culture revisited. Friendship dynamics and the creation of social capital among Turkish minority adolescents in Germany” Journal of Ethnic and Migration Studies
 
