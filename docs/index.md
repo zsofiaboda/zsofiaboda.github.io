@@ -1,12 +1,12 @@
 # About
 
-I am a Senior Lecturer (Associate Professor) at the University of Essex, where I share my time between the [Department of Sociology](https://www.essex.ac.uk/departments/sociology) and the [Institute for Social and Economic Research (ISER)](https://www.iser.essex.ac.uk). At ISER, I am a member of the [ESRC Research Centre on Micro-Social Change (MiSoC)](https://www.iser.essex.ac.uk/misoc). I also hold a Humboldt Research Fellowship for Experienced Researchers at the [Berlin Institute for Integration and Migration Research](https://www.bim.hu-berlin.de/en/welcome), awarded by the Alexander von Humboldt Foundation.
+I am a Senior Lecturer (Associate Professor) at the University of Essex, [Department of Sociology and Criminology](https://www.essex.ac.uk/departments/sociology). My research applies state-of-art social network methods to better understand social inequalities. Much of this work focuses on the reproduction of ethnic, gender, and socio-economic inequalities in the education system through students’ social ties and interactions. I am also interested in social networks, education, and social inequalities more broadly. I have recently received the Freeman award of the [International Network for Social Network Analysis](https://www.insna.org/) for significant contributions to the study of social structure. 
 
-Previously, I worked as a Postdoctoral Researcher at the [Social Networks Lab](https://sn.ethz.ch) at ETH Zürich between 2015 and 2021. From 2017, I was Principal Investigator of the project "Who Succeeds and Who Fails? A Multilevel Social Network Analysis Approach to Immigrants’ Psychological and Sociocultural Adaption in Europe" (Computational Social Science Grant, awarded by the Volkswagen foundation). Between 2015 and 2017, I served as a project manager for the [Swiss StudentLife Study](https://sn.ethz.ch/research/studentlife.html) administered at ETH. I received my PhD from the [Department of Sociology](https://www.sociology.ox.ac.uk) and [Nuffield College](https://www.nuffield.ox.ac.uk) at the University of Oxford in 2016. My supervisors were Tom Snijders and Janne Jonsson.
+Currently I am leading an ERC Starting Grant STERN (Applied Stereotypes, Social Networks, and Self-fulfilling Prophecies: How Stereotypes Reinforce Social Inequalities) and a Co-Investigator of the [ESRC Research Centre on Micro-Social Change (MiSoC)](https://www.iser.essex.ac.uk/misoc). I have recently completed a Humboldt Research Fellowship for Experienced Researchers at the [Berlin Institute for Integration and Migration Research](https://www.bim.hu-berlin.de/en/welcome).
 
-My work aims at understanding social inequalities along immigrant background, race, ethnicity, socio-economic status, and gender. I study how social processes in the education system reinforce or counteract systematic differences between groups of students. Much of my work applies state-of-art dynamic social network models.
+Before Essex, I worked as a Postdoctoral Researcher at the [Social Networks Lab](https://sn.ethz.ch) at ETH Zürich between 2015 and 2021. From 2017, I was also co-leading the project "Who Succeeds and Who Fails? A Multilevel Social Network Analysis Approach to Immigrants’ Psychological and Sociocultural Adaption in Europe" (Computational Social Science Grant by the Volkswagen foundation). Between 2015 and 2017, I was the project manager for the [Swiss StudentLife Study](https://sn.ethz.ch/research/studentlife.html) administered at ETH. I received my PhD from the [Department of Sociology](https://www.sociology.ox.ac.uk) and [Nuffield College](https://www.nuffield.ox.ac.uk) at the University of Oxford in 2016. My supervisors were Tom Snijders and Janne Jonsson.
 
-# News
+<!-- # News
 
 * Guest blog post for Nature: [Testing a small and early intervention: The serendipity of friendships in students’ social networks](https://socialsciences.nature.com/posts/59891-testing-a-small-and-early-intervention-the-serendipity-of-friendships-in-students-social-networks)
 
@@ -15,9 +15,10 @@ My work aims at understanding social inequalities along immigrant background, ra
 * New paper featured in Hungarian media: [A barátok segítenek átmenni a szigorlaton (in Hungarian)](https://index.hu/techtud/2019/01/18/a_baratok_segitenek_atmenni_a_szigorlaton)
 
 * New paper in ETH news: [The value of friendships in academic success](https://ethz.ch/en/news-and-events/eth-news/news/2019/01/the-value-of-friendships-in-academic-success.html)
+-->
 
-
-# Publications
+## Click [here](https://scholar.google.hu/citations?user=3EnrHqsAAAAJ&hl=en) to see my publications
+<!-- # Publications
 
 ## Book chapters
 
@@ -68,3 +69,4 @@ Boda, Z. (2016): “Friendship based on race or race based on friendship? The co
 ## Other published work
 
 Ripley, R. M., Snijders, T.A.B., Boda, Z, Vörös, A, and Preciado, P. (2021): Manual for RSiena. Technical report, Oxford: University of Oxford, Department of Statistics
+-->
