@@ -1,4 +1,4 @@
-# About
+# About me
 
 I am a Senior Lecturer (Associate Professor) at the University of Essex, [Department of Sociology and Criminology](https://www.essex.ac.uk/departments/sociology). My research applies state-of-art social network methods to better understand social inequalities. Much of this work focuses on the reproduction of ethnic, gender, and socio-economic inequalities in the education system through students’ social ties and interactions. I am also interested in social networks, education, and social inequalities more broadly. I have recently received the Freeman award of the [International Network for Social Network Analysis](https://www.insna.org/) for significant contributions to the study of social structure. 
 
